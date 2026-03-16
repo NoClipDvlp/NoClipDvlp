@@ -1,0 +1,29 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+  </defs>
+  <rect width="800" height="80" fill="#0d1117" rx="10"/>
+  <line x1="0" y1="1" x2="800" y2="1" stroke="#21262d" stroke-width="1"/>
+
+  <!-- contact items -->
+  <text x="20" y="28" fill="#6e7681" font-size="11">$</text>
+  <text x="34" y="28" fill="#c9d1d9" font-size="11">echo $CONTACT</text>
+
+  <text x="20" y="52" fill="#58a6ff" font-size="11">@</text>
+  <text x="34" y="52" fill="#8b949e" font-size="11">davidromoda1@gmail.com</text>
+
+  <text x="230" y="52" fill="#3fb950" font-size="11">in</text>
+  <text x="248" y="52" fill="#8b949e" font-size="11">/in/jefferson-rodriguez</text>
+
+  <text x="460" y="52" fill="#e3b341" font-size="11">gh</text>
+  <text x="478" y="52" fill="#8b949e" font-size="11">github.com/NoClipDvlp</text>
+
+  <!-- footer line -->
+  <text x="20" y="72" fill="#6e7681" font-size="10">~</text>
+  <text x="34" y="72" fill="#484f58" font-size="10">open to remote · freelance · full-time opportunities</text>
+  <rect x="406" y="62" width="7" height="12" fill="#58a6ff" rx="1" class="cursor"/>
+</svg>

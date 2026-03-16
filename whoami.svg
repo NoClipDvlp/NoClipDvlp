@@ -1,0 +1,27 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700');
+      text { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#0d1117" rx="10"/>
+  <!-- terminal dots -->
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="400" y="26" fill="#6e7681" font-size="11" text-anchor="middle">NoClipDvlp — README.md</text>
+  <!-- divider -->
+  <line x1="0" y1="42" x2="800" y2="42" stroke="#21262d" stroke-width="1"/>
+  <!-- prompt -->
+  <text x="20" y="72" fill="#6e7681" font-size="12">$</text>
+  <text x="34" y="72" fill="#58a6ff" font-size="12">whoami</text>
+  <!-- name -->
+  <text x="20" y="106" fill="#e6edf3" font-size="26" font-weight="700" letter-spacing="-0.5">Jefferson Rodriguez</text>
+  <!-- subtitle -->
+  <text x="20" y="130" fill="#58a6ff" font-size="13">Data Scientist · Full-Stack Developer · Automatización &amp; RPA</text>
+  <!-- description -->
+  <text x="20" y="154" fill="#6e7681" font-size="12">Construyo soluciones donde los datos y el código se encuentran.</text>
+  <text x="20" y="172" fill="#6e7681" font-size="12">Desde pipelines de ML hasta aplicaciones web premium — end-to-end.</text>
+  <text x="20" y="190" fill="#484f58" font-size="11">📍 Bogotá, Colombia · Disponible para proyectos remotos</text>
+</svg>
