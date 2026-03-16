@@ -1,5 +1,3 @@
-<!-- HEADER WAVE -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:58a6ff&height=130&section=header&text=NoClipDvlp&fontSize=48&fontColor=e6edf3&fontAlignY=68&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20RPA&descSize=14&descAlignY=86&descAlign=50)
 
 <!-- WHOAMI BLOCK -->
 <img src="./assets/whoami.svg" width="100%" alt="whoami"/>
