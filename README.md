@@ -59,36 +59,6 @@ $ cat skills.json
 
 <img src="./assets/projects.svg" width="100%" alt="projects and metrics"/>
 
-<br/>
-
-<!-- GITHUB STATS -->
-
-```bash
-$ git log --stat --author="NoClipDvlp" --oneline
-```
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NoClipDvlp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoClipDvlp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoClipDvlp&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&border_radius=10" />
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-
-```bash
-$ git log --graph --all --oneline
-```
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoClipDvlp&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=10" width="95%"/>
-</div>
-
-<br/>
 
 <!-- FOOTER SVG -->
 <img src="./assets/footer.svg" width="100%" alt="contact"/>
