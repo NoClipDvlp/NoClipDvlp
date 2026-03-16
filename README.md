@@ -63,5 +63,3 @@ $ cat skills.json
 <!-- FOOTER SVG -->
 <img src="./assets/footer.svg" width="100%" alt="contact"/>
 
-<!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,60:161b22,100:0d1117&height=80&section=footer)
