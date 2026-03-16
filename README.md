@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-davidromoda1%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:davidromoda1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefferson--rodriguez-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/jefferson-rodriguez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefferson--rodriguez-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/jefferson-david-rodriguez/)
 [![GitHub](https://img.shields.io/badge/GitHub-NoClipDvlp-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/NoClipDvlp)
 
 </div>
